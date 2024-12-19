@@ -1,0 +1,17 @@
+# pycache
+**/__pycache__
+
+# Cache
+**/.cache
+
+# pytest cache
+**/.pytest_cache
+
+# Eggs
+**/*.egg-info
+
+# test .pngs
+tests/*.png
+
+# test .logs
+tests/*.log
